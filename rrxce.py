@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0021)https://rxce.in/#/win -->
-#!/usr/bin/python 
+#!/usr/bin/python
 
 # -*- coding: UTF-8 -*-
 from os import system, name
