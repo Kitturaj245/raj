@@ -11,7 +11,7 @@ from base64 import b64decode,b64encode
 from datetime import date
 
 expirydate = datetime.date(2021, 9, 15)
-#expirydate = datetime.date(2026, 12, 30)
+#expirydate = datetime.date(2022, 12, 30)
 today=date.today()
 def hero():
 
@@ -122,4 +122,5 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
+            sys.exit(" \n \n \n
             #print(numbers)
